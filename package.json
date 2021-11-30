@@ -1,0 +1,28 @@
+{
+  "name": "fuminya1109.github.io",
+  "version": "1.0.0",
+  "description": "<!-- **fuminya1109/fuminya1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuminya1109/fuminya1109.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuminya1109/fuminya1109.github.io/issues"
+  },
+  "homepage": "https://github.com/fuminya1109/fuminya1109.github.io#readme",
+  "dependencies": {
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
